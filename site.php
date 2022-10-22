@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <!╌ site.php is a file name ╌>
+      <!-- The site.php is a file name -->
     <form action="site.php" method="get">
 
         Color: <input type="text" name="color"> <br><br>
